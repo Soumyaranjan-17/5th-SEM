@@ -1,0 +1,69 @@
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.iml
+
+# Python virtual envs
+venv/
+env/
+ENV/
+.venv/
+.Python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Type checkers / caches
+.mypy_cache/
+.dmypy.json
+.cache/
+.ropeproject
+
+# Logs and runtime files
+*.log
+logs/
+*.out
+*.pid
+
+# Environment / secret files
+.env
+.env.*
+secrets.yml
+
+# Databases
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (if present)
+node_modules/
+
+# Misc
+*.bak
+*.swp
+*.tmp
